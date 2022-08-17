@@ -1,9 +1,9 @@
 {
-  "socials": {
-    "linkedIn": "https://www.linkedin.com/in/sonola-moyosoluwalorun-3aa249178",
-    "github": "https://github.com/SonolaMoyo",
-    "instagram": "https://www.instagram.com/tv/CbPuljnAhHn/?igshid=YmMyMTA2M2Y=",
-    "twitter": "https://twitter.com/moscoTechh?t=NbamlgusAzOdwYiInOjCrA&s=09",
-    "email": "sonolamoyosoluwalorun@gmail.com"
-  }
+    "socials":{
+        "facebook": "https://www.linkedin.com/in/sonola-moyosoluwalorun-3aa249178/",
+        "github":"https://github.com/SonolaMoyo",
+        "instagram":"https://www.instagram.com/tv/CbPuljnAhHn/?igshid=YmMyMTA2M2Y=",
+        "twitter":"https://twitter.com/moscoTechh?t=NbamlgusAzOdwYiInOjCrA&s=09",
+        "email":"sonolamoyosoluwalorun@gmail.com"
+    }
 }

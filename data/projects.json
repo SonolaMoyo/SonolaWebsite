@@ -13,6 +13,13 @@
             "project_url": "",
             "description": "some basi project description",
             "tags": [ "react", "postgresql", "nodejs" ]
+        },
+        {
+            "title": "Some dummy title",
+            "imageUrl": "",
+            "project_url": "",
+            "description": "some basi project description",
+            "tags": [ "react", "postgresql", "nodejs" ]
         }
     ]
 }
