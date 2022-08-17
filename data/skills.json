@@ -1,19 +1,25 @@
 {
     "skill": [
-        {
-            "name": "Design",
-            "description": "Create digital products with unique ideas",
-            "projects_completed": 20
-        },
-        {
-            "name": "Frontend Development",
-            "description": "Development of beautiful and unique user interfaces.",
-            "projects_completed": 50
-        },
-        {
-            "name": "Backend Development",
-            "description": "Development of complex and scalable backend architecture.",
-            "projects_completed": 100
-        }   
+      {
+        "name": "Frontend Development(in-view)",
+        "description": "Create interactive frontend web pages",
+        "projects_completed": "2"
+      },
+      {
+        "name": "Backend Development",
+        "description": "Create effective and efficient backend infrastructure",
+        "projects_completed": "5"
+      },
+      {
+          "name": "Data Science | Machine Learning",
+          "description": "Extracting insights through data manipulation and creating real-life application machine learning models",
+          "projects_completed": "3"
+      },
+      {
+          "name": "Cloud Engineering",
+          "description": "Maximazing cloud resources to increase efficiency of IT applications",
+          "projects_completed": "1"
+      }
     ]
-}
+  }
+  
